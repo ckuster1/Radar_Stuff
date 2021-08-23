@@ -4,7 +4,10 @@
 Created on Fri Nov 13 13:07:35 2020
 
 @author: charles.kuster
-(c) University of Oklahoma
+(c) Copyright 2013, Board of Regents of the University of Oklahoma.
+#All rights reserved. Not to be provided or used in any format without
+#the express written permission of the University of Oklahoma.
+#Software provided as is no warranties expressed or implied.
 """
 
 #This script changes file names (appends _KDP) for KDP core study. **Really should only run this once. Could subset dates too as last resort
